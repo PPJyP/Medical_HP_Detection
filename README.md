@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=위장 헬리코박터균 탐지&fontSize=50" />
   
   ### [프로젝트 개요]
-  <img src=https://user-images.githubusercontent.com/37567501/174620037-1f0a5811-3505-4c0f-973b-c46139d32a72.png width="850" height="400"/>
+  <img src=https://user-images.githubusercontent.com/37567501/174629454-dca22782-ac41-41d6-bbfb-c57c7d93f358.png width="850" height="400"/>
   
   <br/><br/>
   ---
