@@ -48,6 +48,9 @@
   <br/><br/>
     
   ### [활용방안]
+  <img src=https://user-images.githubusercontent.com/37567501/174631207-5750d817-eeef-4132-a53c-1e2fde3882ca.png width="850" height="400"/>
+  
+
   **출입인원 파악**과 손님이 **머물렀던 시간** 등을 정보화하여 <span style="color:red">**마케팅에 활용**</span> 가능
   
   
