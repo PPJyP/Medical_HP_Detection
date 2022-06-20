@@ -41,6 +41,9 @@
   <br/><br/>
   
   ### [개선사항]
+  
+  <img src=https://user-images.githubusercontent.com/37567501/174631711-b299d9e3-fecf-4a30-a9f2-65d24cae2440.png width="850" height="400"/>
+  
   해상도가 떨어지면 얼굴 인식률이 떨어지는 문제점 발생 **다양한 얼굴 표본을 추가 학습**하여 해결이 필요함
     
   <br/><br/>
