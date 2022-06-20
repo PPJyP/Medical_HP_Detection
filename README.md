@@ -22,8 +22,9 @@
   <br/><br/>
   
   ### [수행결과]
-  ![image](https://user-images.githubusercontent.com/37567501/174423552-53b2ac8b-fc58-4b81-90f5-f27023fcc6cd.png)
   
+  <img src=https://user-images.githubusercontent.com/37567501/174630468-c50a73fb-88de-44bd-ac64-0d1f48e39d28.png width="850" height="400"/>
+
   **[설명]**
 </div>
 
