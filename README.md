@@ -70,6 +70,13 @@
   <img src=https://user-images.githubusercontent.com/37567501/174633165-854e534a-553f-4b40-9eef-b08a9a3e9b1c.png width="850" height="400"/>
   
 </div>
+
+  * 빨간색으로 표시된 곳에 수치가 높으면 성능이 좋다고 볼 수 있는데 **학습할 수 있는 이미지가 많을수록 성능이 높아짐**을 확인할 수 있다.
+  * 위 사진에서 "metrics/precision" 그래프를 보면 **이미지가 적으면 더이상 precision이 증가하지 않는** 것을 확인할 수 있다.
+
+
+
+  <br/>
   
   #### >서비스 구현<
   
@@ -92,7 +99,7 @@
   
   <img src=https://user-images.githubusercontent.com/37567501/174631711-b299d9e3-fecf-4a30-a9f2-65d24cae2440.png width="850" height="400"/>
   
-
+</div>
 
   > Stacking이란? 
   
