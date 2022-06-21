@@ -2,7 +2,16 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=위장 헬리코박터균 탐지 모델&fontSize=50" />
   
+</div>
 
+  프로젝트 소개에 앞서...
+  1. 코드의 일부만 업로드된 점을 설명드리면 데이터 사이즈 초과로인해 공유된 Yolov5 소스에서 변경된 파일만 업로드 하였습니다.
+  2. 내시경 이미지데이터 역시 사이즈 초과 문제와 의학 데이터인 점을 고려하여 공유할 수 없음을 말씀드립니다.
+  
+  <br/>
+  
+<div align="center">
+  
   ### [프로젝트 개요]
   
   <br/>
