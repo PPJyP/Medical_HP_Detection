@@ -27,11 +27,11 @@
   
   #### >데이터 처리과정<
   
-  <img src=https://user-images.githubusercontent.com/37567501/174627617-69e405a3-412b-4bd3-8e4a-16bc3e743163.png width="850" height="400"/>
+  <img src=https://user-images.githubusercontent.com/37567501/174697423-7fe7d40b-ef0c-4fbd-ab47-340ba22bcbac.png width="850" height="400"/>
   
   #### >데이터 전처리<
   
-  <img src=https://user-images.githubusercontent.com/37567501/174628758-c1a0359a-b9dc-419e-ad7f-80da327b5b06.png width="850" height="400"/>
+  <img src=https://user-images.githubusercontent.com/37567501/174697473-a5efb010-c27f-4e37-a5cb-d92792ad289a.png width="850" height="400"/>
   
   #### >데이터 전처리 결과<
   
