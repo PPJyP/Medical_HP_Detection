@@ -3,7 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=위장 헬리코박터균 탐지 모델&fontSize=50" />
   
   ### [프로젝트 개요]
-  <img src=https://user-images.githubusercontent.com/37567501/174629454-dca22782-ac41-41d6-bbfb-c57c7d93f358.png width="850" height="400"/>
+  
+  <img src=https://user-images.githubusercontent.com/37567501/174692544-866e1c2e-32a4-4a8f-b519-97550d58a5fc.png width="850" height="400"/>
+  
+</div>
+  
+  * 인공지능 의사 왓슨은 미국내에서는 정확도가 높지만 다른 나라에 도입시 동서양인의 신체 차이로 인해 정확도가 낮은 것을 확인할 수 있다. 이러한 문제를 해결하고자 해당 프로젝트를 시작하게 되었다.
+  
   
   <br/><br/>
   ---
@@ -62,4 +68,4 @@
   
   
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
-</div>
+
