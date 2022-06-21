@@ -2,13 +2,10 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=위장 헬리코박터균 탐지 모델&fontSize=50" />
   
-</div>
 
   ### [프로젝트 개요]
   
   <br/>
-  
-<div align="center">
   
   <img src=https://user-images.githubusercontent.com/37567501/174692544-866e1c2e-32a4-4a8f-b519-97550d58a5fc.png width="850" height="400"/>
   
@@ -16,6 +13,7 @@
   
   * 인공지능 의사 왓슨은 미국내에서는 정확도가 높지만 다른 나라에 도입시 **동서양인의 신체 및 식습관 차이로 인해 정확도가 떨어지는** 것을 확인할 수 있다. 이러한 문제를 해결하고자 해당 프로젝트를 시작하게 되었다.
   
+<div align="center">
   
   <br/><br/>
   ---
@@ -23,10 +21,20 @@
   
   ### [수행과정]
   
-  #### >데이터 전처리<
+  <br/>
+  
+</div>
+  
+  #### >데이터 처리과정<
   
   <img src=https://user-images.githubusercontent.com/37567501/174627617-69e405a3-412b-4bd3-8e4a-16bc3e743163.png width="850" height="400"/>
+  
+  #### >데이터 전처리<
+  
   <img src=https://user-images.githubusercontent.com/37567501/174628758-c1a0359a-b9dc-419e-ad7f-80da327b5b06.png width="850" height="400"/>
+  
+  #### >데이터 전처리 결과<
+  
   <img src=https://user-images.githubusercontent.com/37567501/174628934-68b4f215-39b2-4afd-9123-3a8d23f1ab47.png width="850" height="400"/>
   
   <br/><br/>
