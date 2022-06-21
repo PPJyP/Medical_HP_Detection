@@ -41,7 +41,7 @@
   
   <img src=https://user-images.githubusercontent.com/37567501/174698126-77752e1c-d551-4be0-8c32-de101f3695ad.png width="850" height="400"/>
   
-  * **환자 정보**가 담긴 엑셀은 **XGBoost** 모델, **내시경 이미지**는 **Yolov5** 모델을 활용해 감염여부를 확인할 수 있도록 모델을 선정하였다.
+  * **환자 정보**가 담긴 엑셀은 **XGBoost** 모델, **내시경 이미지**는 **Yolov5** 모델을 활용해 감염여부를 확인할 수 있도록 선정하였다.
   
   
   <br/><br/>
