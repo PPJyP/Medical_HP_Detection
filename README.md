@@ -37,6 +37,12 @@
   
   <img src=https://user-images.githubusercontent.com/37567501/174628934-68b4f215-39b2-4afd-9123-3a8d23f1ab47.png width="850" height="400"/>
   
+  #### >모델 선정<
+  
+  <img src=https://user-images.githubusercontent.com/37567501/174698126-77752e1c-d551-4be0-8c32-de101f3695ad.png width="850" height="400"/>
+  
+  
+  
   <br/><br/>
   ---
   <br/><br/>
@@ -46,6 +52,14 @@
   ### [수행결과]
   
   <br/>
+  
+</div>
+
+  #### >모델 성능 결과값<
+  
+<div align="center">
+  
+  <img src=https://user-images.githubusercontent.com/37567501/174698327-87891964-fbce-4527-894d-4232ff1f26f6.png width="850" height="400"/>
   
 </div>
   
