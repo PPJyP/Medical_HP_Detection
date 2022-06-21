@@ -1,8 +1,10 @@
 <div align="center">
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=위장 헬리코박터균 탐지 모델&fontSize=50" />
+  
 </div>
 
+  
   ### [프로젝트 개요]
   
 <div align="center">
