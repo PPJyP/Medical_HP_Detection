@@ -41,18 +41,20 @@
   ---
   <br/><br/>
   
+<div align="center">
+  
   ### [수행결과]
+  
+  <br/>
   
   <img src=https://user-images.githubusercontent.com/37567501/174633165-854e534a-553f-4b40-9eef-b08a9a3e9b1c.png width="850" height="400"/>
   
   <img src=https://user-images.githubusercontent.com/37567501/174630468-c50a73fb-88de-44bd-ac64-0d1f48e39d28.png width="850" height="400"/>
 
-  **[설명]**
 </div>
 
   * 웹서비스로 구현하여 인공지능(AI)의 예측을 확인할 수 있으며, 실제 의사의 진단과 비교 가능하게 만들어 **정확도**를 확인할 수 있다. (해당 결과값은 추가 학습에 사용 - **전이학습**)
 
-<div align="center">
   
   <br/><br/>
   ---
@@ -60,9 +62,13 @@
   
   ### [개선사항]
   
+<div align="center">
+  
   <img src=https://user-images.githubusercontent.com/37567501/174631711-b299d9e3-fecf-4a30-a9f2-65d24cae2440.png width="850" height="400"/>
   
-  * Stacking이란? 
+
+
+  > Stacking이란? 
   
   : 앙상블 기법은 머신러닝 모델의 성능을 향상할 때 많이 쓰이는 기법으로, 각 모델에서 예측한 값들을 가지고 최종 모델을 이용하여 한 번 더 target을 예측하도록 하여 모델의 예측 성능을 향상시킬 수 있는 기법이다.
     
@@ -71,8 +77,12 @@
   <br/><br/>
     
   ### [활용방안]
+  
+<div align="center">
+  
   <img src=https://user-images.githubusercontent.com/37567501/174631207-5750d817-eeef-4132-a53c-1e2fde3882ca.png width="850" height="400"/>
   
+</div>
 
   **출입인원 파악**과 손님이 **머물렀던 시간** 등을 정보화하여 <span style="color:red">**마케팅에 활용**</span> 가능
   
