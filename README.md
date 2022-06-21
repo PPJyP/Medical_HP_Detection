@@ -64,7 +64,7 @@
   
 </div>
   
-  * "Precision" 값은 XGBoost와 Yolov5를 비교했을 때 차이가 거의 없으나, "Recall" 결과 값은 "XGBoost"가 현저히 떨어지는 것을 알 수 있다.
+  * **"Precision"** 값은 XGBoost와 Yolov5를 비교했을 때 차이가 거의 없으나, **"Recall"** 결과 값은 "XGBoost"가 현저히 떨어지는 것을 알 수 있다.
   
   <br/>
   
