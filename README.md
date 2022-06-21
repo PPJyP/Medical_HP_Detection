@@ -45,9 +45,19 @@
   
   ### [수행결과]
   
-  <br/>
+<br/>
+  
+  ####>이미지 개수 따른 성능 비교<
+  
+<div align="center">
   
   <img src=https://user-images.githubusercontent.com/37567501/174633165-854e534a-553f-4b40-9eef-b08a9a3e9b1c.png width="850" height="400"/>
+  
+</div>
+  
+  #### >서비스 구현<
+  
+<div align="center">
   
   <img src=https://user-images.githubusercontent.com/37567501/174630468-c50a73fb-88de-44bd-ac64-0d1f48e39d28.png width="850" height="400"/>
 
