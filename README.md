@@ -134,7 +134,7 @@
   
 </div>
 
-  * 추후 내시경을 통해 실시간으로 결과값을 확인할 수 있도록 처리속도가 빠른 Yolov5 모델을 채택하였기에 실시간 탐지에 활용할 수 있습니다.
+  * 추후 내시경을 통해 실시간으로 결과값을 확인할 수 있도록 처리속도가 빠른 Yolov5 모델을 채택하였기에 실시간 탐지에 활용할 수 있을 것이라 기대합니다.
   
   
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
